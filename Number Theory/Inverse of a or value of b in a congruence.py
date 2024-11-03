@@ -1,5 +1,5 @@
 """
-Inverse of a or value of b in the form of : ab congruent to m (mod m)
+Inverse of a or value of b in the form of : ab congruent to m (mod n)
 without using python in-built functions
 """
 
